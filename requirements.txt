@@ -1,0 +1,4 @@
+# My fork contain a fix to run certain CLIP model
+git+https://github.com/sheldonchiu/discoart.git
+boto3
+watchdog
